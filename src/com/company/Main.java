@@ -6,5 +6,7 @@ public class Main {
 
         System.out.println("First line code and commit");
 
+        System.out.println("Second line code and commit");
+
     }
 }
