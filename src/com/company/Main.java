@@ -8,5 +8,7 @@ public class Main {
 
         System.out.println("Second line code and commit");
 
+        System.out.println("Third line code and commit");
+
     }
 }
