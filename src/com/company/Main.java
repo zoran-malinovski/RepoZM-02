@@ -10,5 +10,6 @@ public class Main {
 
         System.out.println("Third line code and commit");
 
+        System.out.println("Added new line code");
     }
 }
