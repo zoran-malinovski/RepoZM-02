@@ -13,5 +13,7 @@ public class Main {
         System.out.println("Added new line code");
 
         System.out.println("NewBranch-01 commit and push");
+
+        System.out.println("Changes made in IntelliJ Project");
     }
 }
