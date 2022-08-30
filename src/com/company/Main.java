@@ -16,6 +16,6 @@ public class Main {
 
         System.out.println("Changes made in IntelliJ Project");
 
-        System.out.println("amend commit");
+        System.out.println("amend commit 01");
     }
 }
